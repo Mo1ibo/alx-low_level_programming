@@ -1,6 +1,9 @@
 #include "main.h"
 
 
+/* code that prints _putchar
+ */
+
 
 
 int main(void)
